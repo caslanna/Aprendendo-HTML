@@ -1,0 +1,99 @@
+body {
+    background-color: aquamarine;
+}
+
+.principal {
+    display: flex;
+}
+
+.coluna1 {
+    width: 25%;
+    height: 950px;
+    display:block;
+    background-color: blue;
+    padding: 5px;
+    border: solid 5px;
+}
+
+.cxcinza {
+    width:100%;
+    height: 20% ;
+    background-color: gray; 
+    margin-bottom: 5px;
+}
+
+.cxvermelha {
+    width: 100%;
+    height: 20%;
+    background-color: brown;
+    margin-bottom: 5px;
+}
+
+.cxlaranja {
+    width: 100%;
+    height: 20%;
+    background-color: sandybrown;
+    margin-bottom: 5px;
+}
+
+.coluna1-2 {
+    width:100% ;
+    height:200px ;
+    display: flex;
+    margin-bottom: 5px;
+    column-gap: 5px;
+}
+
+.cxlaranja1 {
+    width: 50%;
+    height: 200px ;
+    background-color: tomato;
+    margin-bottom: 5px;
+}
+
+.cxamarela {
+    width: 50%;
+    height: 200px;
+    background-color: yellow;
+    margin-bottom: 5px;
+}
+
+.cxverde {
+    width: 100%;
+    height: 155px;
+    background-color: chartreuse; 
+}
+
+.principal2 {
+    width: 25%;
+    height: 100%;
+    display: grid ;
+    padding: 5px;
+    border: solid 5px;
+}
+
+.cxazul2 {
+    background-color: aqua;
+    width: 100%;
+    height: 100px;
+}
+
+.coluna2 {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    margin-bottom: 5px;
+}
+
+.cxvermelha2 {
+    width: 50%;
+    height: 100px;
+    background-color: brown
+}
+
+.cxavermelhada {
+    width: 50%;
+    height: 100px;
+    background-color: crimson;
+
+}
